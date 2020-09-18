@@ -4,6 +4,7 @@ from tabulate import tabulate
 
 from w_bs4.coinMarketCap import coinMarket
 from w_bs4.nobetciEczane import nobetciEczane
+from w_bs4.haberler import sonDakika
 from w_bs4.havaDurumu import hava_Durum
 from w_pandas.doviz import dovizVerileri
 
@@ -26,4 +27,7 @@ with open("dovizVerileri.md", "w+") as doviz:
     doviz.write(md_github(dovizVerileri('json_veri')))
 
 with open("havaDurumu.md", "w+") as hava:
-    hava.write(md_github(hava_Durum("Edirne", "Keşan", "json_veri")))
+    hava.write(md_github(hava_Durum("Çanakkale", "Merkez", "json_veri")))
+
+with open("haberler.md", "w+") as haber:
+    haber.write(md_github(sonDakika("json_veri")))

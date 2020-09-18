@@ -14,114 +14,155 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 
 ## [`havaDurumu.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/havaDurumu.py)
 
-| sehir        | gun             | derece          |
-|--------------|-----------------|-----------------|
-| Edirne Keşan | Cumartesi 01:50 | Az bulutlu 20°C |
+| sehir            | gun             | derece          |
+|------------------|-----------------|-----------------|
+| Çanakkale Merkez | Cumartesi 02:04 | Az bulutlu 22°C |
+
+## [`haberler.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/haberler.py)
+
+| Haber                                                                                               | Link                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Akdeniz'de yeni Navtex ilan edildi (Barbaros Hayreddin Paşa)                                        | https://www.ntv.com.tr/turkiye/son-dakika-haberi-akdenizde-yeni-navtex,uWhk8NUxxkGNF-Pir2k2Ig                                                         |
+| Akdeniz'de 5,7 büyüklüğünde deprem | Son depremler                                                  | https://www.ntv.com.tr/dunya/son-dakikaakdenizde-5-7-buyuklugunde-deprem-son-depremler,HGXRpZtb8kCqbttuqwtKRA                                         |
+| 18 Eylül 2020 corona virüs tablosu: 62 can kaybı, bin 771 vaka                                      | https://www.ntv.com.tr/turkiye/18-eylul-2020-corona-virus-tablosu-62-can-kaybi-bin-771-vaka,ARAKe57rKESVqqCpAP-SVg                                    |
+| Dışişleri Bakanı Çavuşoğlu: Yunanistan Büyükelçisi bakanlığa çağrıldı                               | https://www.ntv.com.tr/turkiye/son-dakika-haberi-disisleri-bakani-cavusoglu-konusuyor,XZki-9QQHkaLgnipQpRrUQ                                          |
+| Bakan Koca: Yoğun bakım doluluk oranı yüzde 66                                                      | https://www.ntv.com.tr/turkiye/son-dakika-haberi-saglik-bakani-koca-konusuyor,V1udKGnas0SnGaDl_-2Nug                                                  |
+| DAEŞ'in sözde üst düzey yöneticisine 12.5 yıl hapis                                                 | https://www.ntv.com.tr/turkiye/daesin-sozde-ust-duzey-yoneticisine-12-5-yil-hapis,QJApKCVntESyMJV9CBS4ng                                              |
+| Bahçeli: Türk Tabipleri Birliği corona virüs kadar tehlikeli                                        | https://www.ntv.com.tr/turkiye/bahceli-turk-tabipleri-birligi-corona-virus-kadar-tehlikeli,JI9ozFtu6ECmlgEm9BDh5A                                     |
+| Albayrak: Salgından en az etkilenecek 3. ülke Türkiye                                               | https://www.ntv.com.tr/ekonomi/albayrak-salgindan-en-az-etkilenecek3-ulke-turkiye,-YqK7lqLEUWv-ME5IljmdQ                                              |
+| FETÖ'nün TSK yapılanmasına ilişkin soruşturmada 29 tutuklama                                        | https://www.ntv.com.tr/turkiye/fetonun-tsk-yapilanmasina-iliskin-sorusturmada-29-tutuklama,nIz7YL9eNkGCSvvGIyHgPQ                                     |
+| Altın fiyatları bugün ne kadar oldu? (20 Eylül 2020 güncel çeyrek ve gram altın fiyatları)          | https://www.ntv.com.tr/ekonomi/altin-fiyatlari-bugun-ne-kadar-oldu-20-eylul-2020-guncel-ceyrek-ve-gram-altin-fiyatlari,iYDMHr9MNEOT_BkZnX83cg         |
+| İletişim Başkanlığı, stratejik iletişim ve kriz yönetimine ilişkin politikaları da belirleyecek     | https://www.ntv.com.tr/turkiye/iletisim-baskanligi-stratejik-iletisim-ve-kriz-yonetimine-iliskin-politikalari-da-belirleyecek,ZddWN8MDCU6CAcsd2cimTA  |
+| Milli Savunma Bakanı Akar: Macron problemlerin üzerine benzin döküyor                               | https://www.ntv.com.tr/turkiye/milli-savunma-bakani-akar-macron-problemlerin-uzerine-benzin-dokuyor,57KyBqRJF0mO9cyHreAulQ                            |
+| Bakan Koca: Önce dengelenme sonra düşüş bekliyoruz                                                  | https://www.ntv.com.tr/turkiye/bakan-koca-izmirde-vaka-sayisi-yuzde-42-artti,dwSq-SD1qE-w5tNxUeRvNw                                                   |
+| Dolar kuru bugün ne kadar oldu? (18 Eylül 2020 dolar - euro fiyatları)                              | https://www.ntv.com.tr/ekonomi/dolar-kuru-bugun-ne-kadar-oldu-18-eylul-2020-dolar-euro-fiyatlari,5IVnu3XANkqCKjlJe7MVHw                               |
+| Benzin ve motorine zam                                                                              | https://www.ntv.com.tr/ekonomi/son-dakika-haberi-benzin-ve-motorine-zam-geliyor,IxVVEjjhsE2WXNU36xZOJw                                                |
+| Çipli kimlik kartında yeni dönem                                                                    | https://www.ntv.com.tr/turkiye/son-dakika-haberi-cipli-kimlik-kartinda-yeni-donem,c9y0Dy0UqkCOcm6LfPtcHQ                                              |
+| Aile Bakanlığı'ndan Halil Sezai açıklaması                                                          | https://www.ntv.com.tr/turkiye/aile-bakanligindan-halil-sezai-aciklamasi,6zXtj9vdnkOkyZmZNRAvWQ                                                       |
+| Malatya'da 4.5 büyüklüğünde deprem                                                                  | https://www.ntv.com.tr/turkiye/son-dakika-haberi-malatyada-4-5-buyuklugunde-deprem,E-VR-JSrFEK-Po51bFJDbA                                             |
+| İçişleri Bakanlığı’nca Bitlis’te Yıldırım-12 Beşkaynak Operasyonu başlatıldı                        | https://www.ntv.com.tr/turkiye/son-dakika-haberiicisleri-bakanliginca-bitliste-yildirim-12-beskaynak-operasyonu-baslatildi,gjqIHoOnREacEDl8-4sRTg     |
+| Pençe-Kaplan operasyon bölgesinde 2 asker şehit oldu, 1 asker yaralandı                             | https://www.ntv.com.tr/turkiye/son-dakika-haberi-pence-kaplan-harekatinda-iki-asker-sehit-oldu,imP8f9rnMEqkS2PEHsg7Zg                                 |
+| SON DAKİKA: Muş ve Malatya'da deprem | Son depremler                                                | https://www.ntv.com.tr/turkiye/son-dakikamusta-4-2-buyuklugunde-deprem-son-depremler,sdOy2__fFUiBQWmqWkS5fQ                                           |
+| Halil Sezai "Silahla kasten yaralama" suçundan tutuklandı                                           | https://www.ntv.com.tr/turkiye/son-dakika-haberihalil-sezai-silahla-kasten-yaralama-sucundan-tutuklandi,fKPtpVR-BU2KYVlu6AGRGw                        |
+| Beşiktaş'ın Avrupa Ligi 3. Ön Eleme Turu'ndaki rakibi belli oldu                                    | https://www.ntv.com.tr/spor/son-dakika-haberibesiktasin-avrupa-ligi-3-on-eleme-turundaki-rakibi-belli-oldu,ARdA572-DUCLpxRl2z1Nkw                     |
+| Galatasaray UEFA Avrupa Ligi elemelerinde tur atladı                                                | https://www.ntv.com.tr/spor/son-dakika-haberi-galatasaray-uefa-avrupa-ligi-elemelerinde-tur-atladi,eBd_gaAXi0-fn6TzgJ0O2g                             |
+| Cumhurbaşkanı Erdoğan AB Konseyi Başkanı ile Doğu Akdeniz'i görüştü                                 | https://www.ntv.com.tr/turkiye/son-dakika-haberi-cumhurbaskani-erdogan-ab-konseyi-baskani-ile-dogu-akdenizi-gorustu,hi6Yd2CBikyVQ5W_anY7bA            |
+| 17 Eylül 2020 corona virüs tablosu: 66 can kaybı, bin 648 vaka                                      | https://www.ntv.com.tr/turkiye/17-eylul-2020-corona-virus-tablosu-66-can-kaybi-bin-648-vaka,6vDsAuUNr0SYgJeDgf8KRA                                    |
+| Bakan Çavuşoğlu, NATO Genel Sekreteri ile Doğu Akdeniz'i görüştü                                    | https://www.ntv.com.tr/turkiye/son-dakika-haberi-bakan-cavusoglu-nato-genel-sekreteri-ile-dogu-akdenizi-gorustu,B8NvmwY97ES9qRfgA48ZWA                |
+| Balkan ülkelerinden ortak tatbikat (Türkiye ve Yunanistan da katılacak)                             | https://www.ntv.com.tr/turkiye/balkan-ulkelerinden-ortak-tatbikat-turkiye-ve-yunanistan-da-katilacak,DE04gIwN50Sybc1jcR8u6g                           |
+| Dolar kuru bugün ne kadar? (17 Eylül 2020 dolar - euro fiyatları)                                   | https://www.ntv.com.tr/ekonomi/dolar-kuru-bugun-ne-kadar-17-eylul-2020-dolar-euro-fiyatlari,CdRUgiDf0kmbYOQhouKazA                                    |
+| Bakan Albayrak: Tarımda büyüme hızı  OECD ve AB ülkelerinin çok ilerisinde                          | https://www.ntv.com.tr/ekonomi/son-dakika-haberi-bakan-albayrak-tarimda-buyume-hizi-oecd-ve-ab-ulkelerinin-cok-ilerisinde,HAlwt0LJ8UCrLspaKRFhug      |
+| Anayasa Mahkemesi'nden Enis Berberoğlu için hak ihlali kararı                                       | https://www.ntv.com.tr/turkiye/son-dakika-haberi-enis-berberoglu-icin-hak-ihlali-karari,lPk6GEeso0iWuOPzBGgVnQ                                        |
+| Halil Sezai için tutuklama talebi                                                                   | https://www.ntv.com.tr/turkiye/son-dakika-haberi-halil-sezaiye-tutuklama-talebi,BAp8ioj4n0OMzwyMtaI5_g                                                |
+| Cumhurbaşkanı Erdoğan: Türkiye'nin şantaj ve tehdide boyun eğmeyeceğini anladılar                   | https://www.ntv.com.tr/turkiye/cumhurbaskani-erdoganturkiyenin-haydutluga-boyun-egmeyegini-anladilar,-b5dzEi9xUe9TzNzuhIG-A                           |
+| Osman Baydemir hakkında kırmızı bülten talebi                                                       | https://www.ntv.com.tr/turkiye/son-dakika-haberi-osman-baydemir-hakkinda-kirmizi-bulten,hh0Xvzz7QUiR4HT6pE-Ysg                                        |
+| Üniversite ek tercih işlemleri bugün başladı (YKS ek tercih kılavuzu ÖSYM'nin sitesinde yayımlandı) | https://www.ntv.com.tr/egitim/universite-ek-tercih-islemleri-bugun-basladi-yks-ek-tercih-kilavuzu-osymnin-sitesinde-yayimlandi,RVMJsGEjlEWxTh11-ueUJQ |
+| Altın fiyatları bugün ne kadar oldu?(17 Eylül 2020 çeyrek altın ne kadar?)                          | https://www.ntv.com.tr/ekonomi/altin-fiyatlari-bugun-ne-kadar-oldu17-eylul-2020-ceyrek-altin-ne-kadar,XjVluBIhf0afOjC5naW9KQ                          |
 
 ## [`coinMarketCap.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/coinMarketCap.py)
 
 |   Rank | Ad                      | Piyasa Değeri    | Fiyat      | Hacim (24s)     | Dolaşan Arz           | Değişim (24s)   |
 |--------|-------------------------|------------------|------------|-----------------|-----------------------|-----------------|
-|      1 | Bitcoin                 | $201,495,443,877 | $10,895.63 | $27,865,551,343 | 18,493,243 BTC        | -0.11%          |
-|      2 | Ethereum                | $42,926,468,362  | $381.05    | $16,240,140,174 | 112,652,491 ETH       | -1.79%          |
-|      3 | Tether                  | $15,125,196,605  | $1.00      | $56,060,849,514 | 15,110,798,985 USDT * | -0.04%          |
-|      4 | XRP                     | $11,234,703,735  | $0.249425  | $2,102,943,215  | 45,042,338,912 XRP *  | -1.38%          |
-|      5 | Polkadot                | $4,427,778,762   | $5.19      | $668,808,024    | 852,647,705 DOT *     | -2.77%          |
-|      6 | Bitcoin Cash            | $4,319,430,839   | $233.22    | $2,463,661,864  | 18,521,225 BCH        | -0.32%          |
-|      7 | Binance Coin            | $3,895,791,805   | $26.98     | $723,387,671    | 144,406,560 BNB *     | 1.79%           |
-|      8 | Chainlink               | $3,570,333,947   | $10.20     | $1,153,294,994  | 350,000,000 LINK *    | -4.58%          |
-|      9 | Crypto.com Coin         | $3,335,561,752   | $0.165899  | $48,227,321     | 20,105,936,073 CRO *  | 0.17%           |
-|     10 | Litecoin                | $3,157,226,938   | $48.21     | $1,985,989,733  | 65,483,695 LTC        | -1.48%          |
-|     11 | Bitcoin SV              | $2,996,196,606   | $161.79    | $941,282,832    | 18,519,508 BSV        | -1.09%          |
-|     12 | Cardano                 | $2,820,419,781   | $0.090652  | $960,282,489    | 31,112,484,646 ADA    | -2.71%          |
-|     13 | EOS                     | $2,515,121,183   | $2.69      | $2,506,755,131  | 936,160,959 EOS *     | -2.22%          |
-|     14 | USD Coin                | $2,127,313,652   | $1.00      | $513,940,652    | 2,126,413,231 USDC *  | -0.15%          |
-|     15 | TRON                    | $2,077,471,810   | $0.028991  | $3,719,737,574  | 71,659,657,369 TRX *  | 3.14%           |
-|     16 | Neo                     | $1,818,843,202   | $25.78     | $1,196,121,905  | 70,538,831 NEO *      | 8.19%           |
-|     17 | Tezos                   | $1,761,235,579   | $2.37      | $161,260,693    | 743,641,874 XTZ *     | -5.33%          |
-|     18 | Monero                  | $1,633,549,821   | $92.28     | $331,758,076    | 17,701,404 XMR        | 0.67%           |
-|     19 | Stellar                 | $1,617,455,936   | $0.078212  | $115,293,916    | 20,680,507,086 XLM *  | -2.86%          |
-|     20 | UNUS SED LEO            | $1,198,439,678   | $1.20      | $10,196,294     | 999,498,893 LEO *     | 0.57%           |
-|     21 | Huobi Token             | $1,028,242,231   | $4.90      | $159,854,060    | 209,994,599 HT *      | 0.84%           |
-|     22 | yearn.finance           | $1,005,212,916   | $33,543.48 | $546,466,415    | 29,967 YFI *          | 0.46%           |
-|     23 | Cosmos                  | $999,663,355     | $4.92      | $480,110,031    | 203,210,346 ATOM *    | -3.66%          |
-|     24 | NEM                     | $995,036,011     | $0.110560  | $56,179,263     | 8,999,999,999 XEM *   | 3.65%           |
-|     25 | VeChain                 | $942,828,231     | $0.014659  | $229,869,276    | 64,315,576,989 VET *  | 8.39%           |
-|     26 | Wrapped Bitcoin         | $799,444,452     | $10,880.85 | $169,880,977    | 73,473 WBTC *         | -0.45%          |
-|     27 | IOTA                    | $756,192,764     | $0.272058  | $9,056,089      | 2,779,530,283 MIOTA * | -3.09%          |
-|     28 | Aave                    | $746,493,632     | $0.574226  | $154,605,274    | 1,299,999,942 LEND *  | 1.34%           |
-|     29 | Dash                    | $695,385,783     | $71.60     | $425,523,179    | 9,712,590 DASH        | -2.21%          |
-|     30 | Dai                     | $645,061,314     | $1.02      | $211,134,009    | 633,397,369 DAI *     | 0.20%           |
-|     31 | UMA                     | $662,284,329     | $12.05     | $29,881,762     | 54,975,037 UMA *      | -12.85%         |
-|     32 | Uniswap                 | $653,432,496     | $6.75      | $6,844,422,469  | 96,866,285 UNI *      | 97.56%          |
-|     33 | Ethereum Classic        | $605,030,885     | $5.20      | $623,568,587    | 116,313,299 ETC       | -0.19%          |
-|     34 | Zcash                   | $578,901,521     | $57.53     | $539,085,009    | 10,062,681 ZEC        | -2.81%          |
-|     35 | Ontology                | $569,198,768     | $0.814037  | $494,049,278    | 699,229,877 ONT *     | -2.12%          |
-|     36 | TrueUSD                 | $507,863,849     | $1.00      | $71,250,442     | 506,691,431 TUSD *    | 0.03%           |
-|     37 | Maker                   | $486,295,541     | $483.60    | $58,084,137     | 1,005,577 MKR *       | 0.24%           |
-|     38 | THETA                   | $491,088,276     | $0.564143  | $85,919,601     | 870,502,690 THETA *   | 5.39%           |
-|     39 | Synthetix Network Token | $434,870,813     | $4.49      | $79,011,008     | 96,920,962 SNX *      | -0.02%          |
-|     40 | OMG Network             | $428,433,880     | $3.05      | $196,600,270    | 140,245,398 OMG *     | -7.55%          |
-|     41 | Compound                | $395,239,237     | $154.31    | $152,714,293    | 2,561,279 COMP *      | -1.32%          |
-|     42 | Binance USD             | $395,311,560     | $1.00      | $459,287,115    | 395,272,032 BUSD *    | 0.02%           |
-|     43 | HedgeTrade              | $345,343,288     | $1.02      | $555,535        | 338,000,783 HEDG *    | 2.80%           |
-|     44 | Kusama                  | $376,192,295     | $44.41     | $72,166,380     | 8,470,098 KSM *       | -3.05%          |
-|     45 | OKB                     | $368,644,494     | $6.14      | $96,085,375     | 60,000,000 OKB *      | 0.74%           |
-|     46 | Algorand                | $360,666,143     | $0.340730  | $238,935,910    | 1,058,509,900 ALGO    | -4.91%          |
-|     47 | FTX Token               | $359,799,000     | $3.81      | $5,555,097      | 94,346,958 FTT *      | 0.07%           |
-|     48 | Basic Attention Token   | $358,046,007     | $0.243725  | $114,101,910    | 1,469,058,994 BAT *   | -2.26%          |
-|     49 | Dogecoin                | $350,383,754     | $0.002774  | $212,509,405    | 126,315,357,487 DOGE  | -1.12%          |
-|     50 | BitTorrent              | $327,860,301     | $0.000331  | $165,568,054    | 989,872,326,233 BTT * | 0.39%           |
-|     51 | DigiByte                | $314,797,265     | $0.023214  | $7,671,662      | 13,560,770,353 DGB    | -2.63%          |
-|     52 | 0x                      | $311,666,679     | $0.421026  | $44,182,592     | 740,255,196 ZRX *     | -2.78%          |
-|     53 | Loopring                | $294,372,910     | $0.257974  | $97,062,719     | 1,141,097,002 LRC *   | -4.26%          |
-|     54 | Energy Web Token        | $290,012,064     | $9.65      | $1,051,268      | 30,062,138 EWT *      | 2.44%           |
-|     55 | NXM                     | $276,375,770     | $49.74     | $44,888,587     | 5,555,999 NXM *       | -4.01%          |
-|     56 | Qtum                    | $274,417,810     | $2.83      | $688,714,254    | 97,036,476 QTUM *     | 9.70%           |
-|     57 | ICON                    | $271,645,783     | $0.480221  | $20,895,218     | 565,668,520 ICX *     | 3.48%           |
-|     58 | Celo                    | $263,882,993     | $2.12      | $4,975,712      | 124,447,717 CELO *    | -8.08%          |
-|     59 | Hyperion                | $91,842,635      | $0.289938  | $486,363        | 316,765,917 HYN *     | -17.87%         |
-|     60 | Waves                   | $250,112,665     | $2.43      | $35,247,829     | 103,038,154 WAVES *   | -4.45%          |
-|     61 | Paxos Standard          | $245,800,580     | $1.00      | $209,716,192    | 244,951,954 PAX *     | 0.21%           |
-|     62 | Ren                     | $213,766,326     | $0.241454  | $46,222,082     | 885,330,203 REN *     | -3.11%          |
-|     63 | Kyber Network           | $207,971,065     | $1.05      | $55,256,436     | 198,083,010 KNC *     | -6.14%          |
-|     64 | SushiSwap               | $188,823,067     | $1.66      | $373,158,186    | 113,953,747 SUSHI *   | 16.32%          |
-|     65 | ABBC Coin               | $185,696,153     | $0.316223  | $51,613,431     | 587,230,742 ABBC      | 38.09%          |
-|     66 | Hedera Hashgraph        | $183,480,657     | $0.034541  | $15,470,581     | 5,311,965,792 HBAR *  | 1.19%           |
-|     67 | Zilliqa                 | $179,694,240     | $0.017211  | $22,297,009     | 10,440,889,487 ZIL    | 3.41%           |
-|     68 | Lisk                    | $171,029,687     | $1.36      | $2,422,295      | 125,806,884 LSK *     | 0.88%           |
-|     69 | Augur                   | $164,711,832     | $14.97     | $12,018,949     | 11,000,000 REP *      | -1.37%          |
-|     70 | DFI.Money               | $157,987,975     | $4,093.38  | $477,351,592    | 38,596 YFII *         | -6.13%          |
-|     71 | Celsius                 | $150,289,561     | $0.629186  | $2,350,730      | 238,863,520 CEL *     | 6.66%           |
-|     72 | Elrond                  | $154,741,638     | $11.29     | $5,567,776      | 13,710,605 EGLD *     | -4.71%          |
-|     73 | Decred                  | $154,252,347     | $12.83     | $3,755,868      | 12,018,889 DCR        | -6.68%          |
-|     74 | Flexacoin               | $172,248,836     | $0.009581  | $412,447        | 17,978,414,675 FXC *  | -15.86%         |
-|     75 | Balancer                | $148,558,616     | $21.39     | $101,307,743    | 6,943,831 BAL *       | -4.27%          |
-|     76 | Revain                  | $121,525,387     | $0.010582  | $652,159        | 11,484,410,729 REV *  | 0.06%           |
-|     77 | Bitcoin Gold            | $146,100,342     | $8.34      | $3,796,410      | 17,513,924 BTG        | 1.41%           |
-|     78 | HUSD                    | $142,316,802     | $1.00      | $56,357,564     | 142,157,189 HUSD *    | -0.04%          |
-|     79 | Aragon                  | $141,281,752     | $4.26      | $34,188,814     | 33,142,159 ANT *      | 0.30%           |
-|     80 | Siacoin                 | $140,584,035     | $0.003142  | $1,312,092      | 44,743,552,992 SC     | -1.68%          |
-|     81 | Enjin Coin              | $133,643,622     | $0.162742  | $6,978,595      | 821,201,679 ENJ *     | 2.30%           |
-|     82 | Ampleforth              | $129,500,652     | $0.772822  | $10,316,110     | 167,568,645 AMPL *    | 1.62%           |
-|     83 | Reserve Rights          | $127,050,758     | $0.013588  | $59,057,804     | 9,349,999,000 RSR *   | -1.75%          |
-|     84 | Band Protocol           | $124,143,805     | $6.06      | $124,960,814    | 20,494,033 BAND *     | -9.97%          |
-|     85 | Terra                   | $119,972,925     | $0.310931  | $5,920,055      | 385,850,620 LUNA *    | -2.11%          |
-|     86 | Ocean Protocol          | $118,894,455     | $0.331056  | $17,540,615     | 359,137,273 OCEAN *   | 4.82%           |
-|     87 | Solana                  | $117,334,834     | $3.14      | $26,971,358     | 37,396,848 SOL *      | 14.00%          |
-|     88 | Arweave                 | $116,722,561     | $3.50      | $1,873,969      | 33,394,701 AR *       | 0.73%           |
-|     89 | Blockstack              | $115,461,073     | $0.186727  | $2,257,190      | 618,340,700 STX *     | -0.89%          |
-|     90 | Decentraland            | $115,601,598     | $0.079041  | $66,343,090     | 1,462,552,188 MANA *  | 0.58%           |
-|     91 | Ravencoin               | $114,679,926     | $0.016232  | $6,696,775      | 7,064,920,000 RVN     | -2.44%          |
-|     92 | Quant                   | $115,199,947     | $9.54      | $2,541,260      | 12,072,738 QNT *      | -5.37%          |
-|     93 | Swipe                   | $111,942,706     | $1.53      | $129,259,102    | 73,166,934 SXP *      | 3.72%           |
-|     94 | DxChain Token           | $111,058,022     | $0.002221  | $929,382        | 50,000,000,000 DX *   | 6.01%           |
-|     95 | Nano                    | $110,052,710     | $0.825922  | $5,543,155      | 133,248,297 NANO *    | -2.93%          |
-|     96 | Bitcoin Diamond         | $109,516,684     | $0.587243  | $1,399,747      | 186,492,898 BCD       | 0.57%           |
-|     97 | CyberVein               | $108,343,068     | $0.102171  | $4,200,212      | 1,060,404,496 CVT *   | -3.54%          |
-|     98 | Holo                    | $90,880,274      | $0.000546  | $34,199,523     | 166,455,921,223 HOT * | -0.58%          |
-|     99 | Bytom                   | $106,016,399     | $0.077197  | $22,328,985     | 1,373,324,069 BTM     | -6.28%          |
-|    100 | Nervos Network          | $105,505,074     | $0.005095  | $6,224,001      | 20,706,680,142 CKB *  | -5.69%          |
+|      1 | Bitcoin                 | $202,239,063,875 | $10,935.84 | $27,838,106,473 | 18,493,243 BTC        | -0.07%          |
+|      2 | Ethereum                | $43,227,793,910  | $383.73    | $14,841,491,054 | 112,652,491 ETH       | -2.27%          |
+|      3 | Tether                  | $15,115,722,267  | $1.00      | $55,388,064,840 | 15,110,798,985 USDT * | -0.09%          |
+|      4 | XRP                     | $11,268,957,042  | $0.250186  | $2,137,263,783  | 45,042,338,912 XRP *  | -1.48%          |
+|      5 | Polkadot                | $4,474,127,793   | $5.25      | $722,955,776    | 852,647,705 DOT *     | -1.10%          |
+|      6 | Bitcoin Cash            | $4,330,303,671   | $233.80    | $2,429,383,846  | 18,521,288 BCH        | -0.32%          |
+|      7 | Binance Coin            | $3,897,877,618   | $26.99     | $721,401,745    | 144,406,560 BNB *     | 0.93%           |
+|      8 | Chainlink               | $3,557,138,259   | $10.16     | $1,204,455,475  | 350,000,000 LINK *    | -7.59%          |
+|      9 | Crypto.com Coin         | $3,333,005,106   | $0.165772  | $48,266,235     | 20,105,936,073 CRO *  | -0.23%          |
+|     10 | Litecoin                | $3,172,283,684   | $48.44     | $1,998,267,026  | 65,483,695 LTC        | -1.46%          |
+|     11 | Bitcoin SV              | $3,003,850,069   | $162.20    | $926,694,772    | 18,519,508 BSV        | -1.06%          |
+|     12 | Cardano                 | $2,823,991,696   | $0.090767  | $949,046,686    | 31,112,484,646 ADA    | -3.43%          |
+|     13 | EOS                     | $2,520,934,186   | $2.69      | $2,497,466,015  | 936,160,959 EOS *     | -1.84%          |
+|     14 | USD Coin                | $2,126,997,433   | $1.00      | $506,589,603    | 2,126,413,231 USDC *  | -0.06%          |
+|     15 | TRON                    | $2,083,726,684   | $0.029078  | $3,698,794,946  | 71,659,657,369 TRX *  | 3.26%           |
+|     16 | Neo                     | $1,779,583,368   | $25.23     | $1,200,341,652  | 70,538,831 NEO *      | 4.91%           |
+|     17 | Tezos                   | $1,774,125,091   | $2.39      | $163,711,949    | 743,641,874 XTZ *     | -4.55%          |
+|     18 | Monero                  | $1,631,964,160   | $92.19     | $401,293,652    | 17,701,404 XMR        | 0.48%           |
+|     19 | Stellar                 | $1,623,234,132   | $0.078491  | $114,496,232    | 20,680,507,086 XLM *  | -2.62%          |
+|     20 | UNUS SED LEO            | $1,202,645,426   | $1.20      | $9,290,235      | 999,498,893 LEO *     | 0.94%           |
+|     21 | Huobi Token             | $1,029,132,420   | $4.90      | $160,906,646    | 209,994,599 HT *      | 0.92%           |
+|     22 | Cosmos                  | $1,016,507,238   | $5.00      | $479,050,836    | 203,210,346 ATOM *    | -1.28%          |
+|     23 | yearn.finance           | $1,007,948,701   | $33,634.77 | $535,243,340    | 29,967 YFI *          | -0.86%          |
+|     24 | NEM                     | $989,552,582     | $0.109950  | $56,188,876     | 8,999,999,999 XEM *   | 3.85%           |
+|     25 | VeChain                 | $923,953,122     | $0.014366  | $232,085,904    | 64,315,576,989 VET *  | 6.36%           |
+|     26 | Wrapped Bitcoin         | $802,282,258     | $10,919.47 | $155,419,845    | 73,473 WBTC *         | -0.23%          |
+|     27 | Aave                    | $764,013,708     | $0.587703  | $157,093,779    | 1,299,999,942 LEND *  | 1.76%           |
+|     28 | IOTA                    | $759,013,791     | $0.273073  | $8,474,953      | 2,779,530,283 MIOTA * | -4.12%          |
+|     29 | Uniswap                 | $750,321,642     | $7.75      | $7,692,010,230  | 96,866,285 UNI *      | 109.95%         |
+|     30 | Dash                    | $700,133,757     | $72.09     | $450,492,061    | 9,712,590 DASH        | -1.61%          |
+|     31 | Dai                     | $646,107,498     | $1.02      | $197,043,125    | 633,397,369 DAI *     | 0.38%           |
+|     32 | UMA                     | $661,869,023     | $12.04     | $29,876,028     | 54,975,037 UMA *      | -11.13%         |
+|     33 | Ethereum Classic        | $606,309,739     | $5.21      | $608,476,789    | 116,313,299 ETC       | -0.51%          |
+|     34 | Zcash                   | $583,131,572     | $57.95     | $551,291,825    | 10,062,681 ZEC        | -2.52%          |
+|     35 | Ontology                | $564,253,629     | $0.806964  | $499,323,341    | 699,229,877 ONT *     | -3.61%          |
+|     36 | TrueUSD                 | $507,654,922     | $1.00      | $68,316,827     | 506,691,431 TUSD *    | 0.02%           |
+|     37 | THETA                   | $502,774,473     | $0.577568  | $83,706,331     | 870,502,690 THETA *   | 4.91%           |
+|     38 | Maker                   | $486,661,785     | $483.96    | $55,971,465     | 1,005,577 MKR *       | -1.11%          |
+|     39 | Synthetix Network Token | $448,912,641     | $4.63      | $81,084,846     | 97,011,917 SNX *      | 0.79%           |
+|     40 | OMG Network             | $421,906,018     | $3.01      | $200,072,748    | 140,245,398 OMG *     | -8.39%          |
+|     41 | Compound                | $393,434,470     | $153.61    | $150,290,106    | 2,561,279 COMP *      | -2.53%          |
+|     42 | Binance USD             | $395,390,614     | $1.00      | $455,464,639    | 395,272,032 BUSD *    | 0.02%           |
+|     43 | Kusama                  | $379,080,580     | $44.76     | $70,311,137     | 8,470,098 KSM *       | -0.67%          |
+|     44 | HedgeTrade              | $393,974,950     | $1.17      | $641,855        | 338,000,783 HEDG *    | 14.61%          |
+|     45 | OKB                     | $370,196,966     | $6.17      | $96,773,079     | 60,000,000 OKB *      | 0.93%           |
+|     46 | FTX Token               | $361,034,760     | $3.83      | $5,408,726      | 94,346,958 FTT *      | -0.42%          |
+|     47 | Basic Attention Token   | $358,349,216     | $0.243931  | $116,533,353    | 1,469,058,994 BAT *   | -2.55%          |
+|     48 | Algorand                | $358,282,748     | $0.338478  | $242,787,685    | 1,058,509,900 ALGO    | -7.38%          |
+|     49 | Dogecoin                | $353,654,122     | $0.002800  | $208,577,205    | 126,315,357,487 DOGE  | -0.45%          |
+|     50 | BitTorrent              | $331,522,957     | $0.000335  | $167,386,951    | 989,872,326,233 BTT * | 1.72%           |
+|     51 | DigiByte                | $317,834,356     | $0.023438  | $7,972,225      | 13,560,770,353 DGB    | -0.81%          |
+|     52 | 0x                      | $312,016,468     | $0.421499  | $44,332,999     | 740,255,196 ZRX *     | -4.20%          |
+|     53 | Loopring                | $300,924,212     | $0.263715  | $96,633,286     | 1,141,097,002 LRC *   | -1.51%          |
+|     54 | Energy Web Token        | $293,119,466     | $9.75      | $1,101,995      | 30,062,138 EWT *      | 1.03%           |
+|     55 | NXM                     | $278,376,980     | $50.11     | $43,524,919     | 5,555,431 NXM *       | -4.60%          |
+|     56 | Qtum                    | $273,132,733     | $2.81      | $706,584,524    | 97,036,476 QTUM *     | 9.54%           |
+|     57 | ICON                    | $270,317,046     | $0.477872  | $21,258,034     | 565,668,520 ICX *     | 1.42%           |
+|     58 | Hyperion                | $91,795,064      | $0.289788  | $491,462        | 316,765,917 HYN *     | -17.89%         |
+|     59 | Celo                    | $252,693,742     | $2.03      | $5,123,950      | 124,447,717 CELO *    | -13.00%         |
+|     60 | Waves                   | $251,478,375     | $2.44      | $34,697,936     | 103,038,154 WAVES *   | -5.17%          |
+|     61 | Paxos Standard          | $245,310,040     | $1.00      | $227,106,196    | 244,951,954 PAX *     | -0.25%          |
+|     62 | Ren                     | $215,923,207     | $0.243890  | $46,645,635     | 885,330,203 REN *     | -4.93%          |
+|     63 | Kyber Network           | $208,319,643     | $1.05      | $60,323,141     | 198,083,010 KNC *     | -6.76%          |
+|     64 | SushiSwap               | $193,021,907     | $1.69      | $370,883,726    | 113,953,747 SUSHI *   | 19.67%          |
+|     65 | ABBC Coin               | $180,901,870     | $0.308059  | $50,411,335     | 587,230,742 ABBC      | 33.49%          |
+|     66 | Hedera Hashgraph        | $183,326,374     | $0.034512  | $13,877,439     | 5,311,965,792 HBAR *  | 1.27%           |
+|     67 | Zilliqa                 | $178,379,975     | $0.017085  | $22,361,294     | 10,440,889,487 ZIL    | 2.59%           |
+|     68 | Lisk                    | $172,161,062     | $1.37      | $2,396,672      | 125,806,884 LSK *     | 0.20%           |
+|     69 | Augur                   | $163,854,368     | $14.90     | $11,831,630     | 11,000,000 REP *      | -2.33%          |
+|     70 | DFI.Money               | $159,761,697     | $4,139.33  | $476,787,119    | 38,596 YFII *         | -4.84%          |
+|     71 | Celsius                 | $151,907,873     | $0.635961  | $2,356,135      | 238,863,520 CEL *     | 7.71%           |
+|     72 | Elrond                  | $155,064,361     | $11.31     | $5,524,571      | 13,710,605 EGLD *     | -6.59%          |
+|     73 | Decred                  | $152,199,584     | $12.66     | $3,845,107      | 12,018,889 DCR        | -7.77%          |
+|     74 | Flexacoin               | $178,977,534     | $0.009955  | $521,336        | 17,978,414,675 FXC *  | -9.77%          |
+|     75 | Balancer                | $147,516,154     | $21.24     | $97,760,537     | 6,943,831 BAL *       | -4.98%          |
+|     76 | Bitcoin Gold            | $145,729,045     | $8.32      | $3,781,928      | 17,513,924 BTG        | -3.28%          |
+|     77 | HUSD                    | $142,204,481     | $1.00      | $52,524,915     | 142,157,189 HUSD *    | -0.06%          |
+|     78 | Aragon                  | $142,213,187     | $4.29      | $35,467,335     | 33,142,159 ANT *      | -0.21%          |
+|     79 | Siacoin                 | $138,551,499     | $0.003097  | $2,038,607      | 44,743,552,992 SC     | -3.46%          |
+|     80 | Enjin Coin              | $137,041,819     | $0.166880  | $7,418,604      | 821,201,679 ENJ *     | 2.70%           |
+|     81 | Ampleforth              | $128,940,449     | $0.769478  | $10,846,433     | 167,568,645 AMPL *    | 0.88%           |
+|     82 | Revain                  | $125,265,666     | $0.010907  | $747,733        | 11,484,410,729 REV *  | 3.18%           |
+|     83 | Reserve Rights          | $127,145,684     | $0.013598  | $59,467,698     | 9,349,999,000 RSR *   | -3.93%          |
+|     84 | Band Protocol           | $123,433,366     | $6.02      | $127,867,838    | 20,494,033 BAND *     | -10.65%         |
+|     85 | Terra                   | $119,780,808     | $0.310433  | $5,680,516      | 385,850,620 LUNA *    | -1.04%          |
+|     86 | Ocean Protocol          | $118,319,313     | $0.329454  | $17,892,515     | 359,137,273 OCEAN *   | 0.89%           |
+|     87 | Solana                  | $117,195,201     | $3.13      | $26,176,005     | 37,396,834 SOL *      | 11.29%          |
+|     88 | Arweave                 | $116,971,590     | $3.50      | $1,712,933      | 33,394,701 AR *       | 2.62%           |
+|     89 | Decentraland            | $114,282,368     | $0.078139  | $66,913,581     | 1,462,552,188 MANA *  | -0.68%          |
+|     90 | Ravencoin               | $115,389,946     | $0.016333  | $6,476,856      | 7,064,920,000 RVN     | -1.99%          |
+|     91 | Blockstack              | $114,805,605     | $0.185667  | $2,287,692      | 618,340,700 STX *     | -0.57%          |
+|     92 | Swipe                   | $112,832,451     | $1.54      | $129,927,327    | 73,166,934 SXP *      | 1.43%           |
+|     93 | Nano                    | $110,442,098     | $0.828844  | $5,537,138      | 133,248,297 NANO *    | -2.57%          |
+|     94 | DxChain Token           | $111,518,522     | $0.002230  | $939,078        | 50,000,000,000 DX *   | 5.31%           |
+|     95 | Quant                   | $111,778,701     | $9.26      | $2,577,639      | 12,072,738 QNT *      | -7.47%          |
+|     96 | Bitcoin Diamond         | $109,078,345     | $0.584893  | $1,365,640      | 186,492,898 BCD       | 0.16%           |
+|     97 | CyberVein               | $108,618,878     | $0.102432  | $4,284,560      | 1,060,404,496 CVT *   | -3.65%          |
+|     98 | Bytom                   | $107,571,760     | $0.078329  | $22,696,128     | 1,373,324,069 BTM     | -5.44%          |
+|     99 | Holo                    | $91,562,687      | $0.000550  | $34,896,373     | 166,455,921,223 HOT * | -0.66%          |
+|    100 | Serum                   | $105,453,192     | $2.11      | $157,565,751    | 50,000,000 SRM *      | 7.83%           |
 
 # `w_pandas`
 

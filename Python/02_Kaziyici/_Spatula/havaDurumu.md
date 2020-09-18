@@ -1,3 +1,3 @@
-| sehir        | gun             | derece          |
-|--------------|-----------------|-----------------|
-| Edirne Keşan | Cumartesi 01:53 | Az bulutlu 20°C |
+| sehir            | gun             | derece          |
+|------------------|-----------------|-----------------|
+| Çanakkale Merkez | Cumartesi 02:04 | Az bulutlu 22°C |
