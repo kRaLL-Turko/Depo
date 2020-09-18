@@ -12,6 +12,12 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 | Marmara Eczanesi | İnönü Caddesi, No. 104/a Aynalı Çarşısı Yakını Merkez / Çanakkale | 0 (286) 217-31-16 |
 | Özhan Eczanesi   | Demircioğlu Caddesi, No:26/b Merkez / Çanakkale                   | 0 (286) 217-59-72 |
 
+## [`havaDurumu.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/havaDurumu.py)
+
+| sehir        | gun             | derece          |
+|--------------|-----------------|-----------------|
+| Edirne Keşan | Cumartesi 01:50 | Az bulutlu 20°C |
+
 ## [`coinMarketCap.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/coinMarketCap.py)
 
 |   Rank | Ad                      | Piyasa Değeri    | Fiyat      | Hacim (24s)     | Dolaşan Arz           | Değişim (24s)   |

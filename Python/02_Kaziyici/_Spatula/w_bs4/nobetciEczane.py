@@ -4,7 +4,6 @@ import requests, json
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 
-
 kullanim =  {
     'kullanim' : [
         'nobetciEczane("canakkale", "merkez", "json_veri")',
