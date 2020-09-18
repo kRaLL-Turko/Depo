@@ -4,7 +4,7 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 
 # `w_bs4`
 
-## nobetciEczane
+## [`nobetciEczane.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/nobetciEczane.py)
 
 | eczane_adi       | eczane_adresi                                                     | eczane_telefonu   |
 |------------------|-------------------------------------------------------------------|-------------------|
@@ -12,7 +12,7 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 | Marmara Eczanesi | İnönü Caddesi, No. 104/a Aynalı Çarşısı Yakını Merkez / Çanakkale | 0 (286) 217-31-16 |
 | Özhan Eczanesi   | Demircioğlu Caddesi, No:26/b Merkez / Çanakkale                   | 0 (286) 217-59-72 |
 
-## coinMarketCap
+## [`coinMarketCap.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/coinMarketCap.py)
 
 |   Rank | Ad                      | Piyasa Değeri    | Fiyat      | Hacim (24s)     | Dolaşan Arz           | Değişim (24s)   |
 |--------|-------------------------|------------------|------------|-----------------|-----------------------|-----------------|
@@ -119,7 +119,7 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 
 # `w_pandas`
 
-## doviz
+## [`doviz.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_pandas/doviz.py)
 
 | Birim   |    Alış |   Satış |
 |---------|---------|---------|
