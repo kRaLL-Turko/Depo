@@ -44,6 +44,19 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 |      7 | Binance Coin            | $3,921,050,385   | $27.15     | $506,547,877    | 144,406,560 BNB *     | -1.53%          |
 |      8 | Chainlink               | $3,544,201,016   | $10.13     | $1,015,663,455  | 350,000,000 LINK *    | -3.22%          |
 
+## [`bim.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/bim.py)
+
+| tarih   | urunler                                                                                                                                                                                                                                                        |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1       | {'urun_baslik': 'Cam Set Üstü Ocak', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/cam-set-ustu-ocak/kral.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_buyuk_543X467_set-ustu.jpg', 'urun_fiyat': '359,00₺'}                 |
+| 8       | {'urun_baslik': 'Pamuklu Halı', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/pamuklu-hali/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_hali.jpg', 'urun_fiyat': '59,90₺'}                              |
+|         | {'urun_baslik': 'Püsküllü Koltuk Örtüsü', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/puskullu-koltuk-ortusu/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_koltuk-ortusu.jpg', 'urun_fiyat': '19,90₺'} |
+| E       | {'urun_baslik': "3'lü Vakumlu Hurç Seti", 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/3-lu-vakumlu-hurc-seti/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_vakumlu-hurc.jpg', 'urun_fiyat': '14,90₺'}  |
+| y       | {'urun_baslik': 'Desenli Eşarp', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/desenli-esarp/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_desenli-esarp.jpg', 'urun_fiyat': '14,90₺'}                   |
+| l       | {'urun_baslik': 'Kadın Wellsoft Patik', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/kadin-wellsoft-patik/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_kadin-patik.jpg', 'urun_fiyat': '6,95₺'}        |
+| ü       | {'urun_baslik': 'Çocuk Wellsoft Patik', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/cocuk-wellsoft-patik/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_cocuk-patik.jpg', 'urun_fiyat': '5,95₺'}        |
+| l       | {'urun_baslik': 'Keten Ayakkabı', 'urun_link': 'https://www.bim.com.tr/aktuel-urunler/keten-ayakkabi/aktuel.aspx', 'urun_gorsel': 'https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_keten-erkek.jpg', 'urun_fiyat': '9,95₺'}                    |
+
 # `w_pandas`
 
 ## [`doviz.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_pandas/doviz.py)

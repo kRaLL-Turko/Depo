@@ -6,6 +6,7 @@ from w_bs4.coinMarketCap import coinMarket
 from w_bs4.nobetciEczane import nobetciEczane
 from w_bs4.haberler import sonDakika
 from w_bs4.havaDurumu import hava_Durum
+from w_bs4.bim import aktuelBim
 from w_pandas.doviz import dovizVerileri
 from w_pandas.deprem import depremVerileri
 
@@ -35,3 +36,6 @@ with open("haberler.md", "w+") as haber:
 
 with open("deprem.md", "w+") as deprem:
     deprem.write(md_github(depremVerileri("json_veri")))
+
+with open("bim.md", "w+") as bim:
+    bim.write(md_github(aktuelBim("json_veri")))
