@@ -27,19 +27,19 @@ def sonDakika(cikti='gorsel_veri', birim=None):
     
     url = "https://www.ntv.com.tr/son-dakika"
     kimlik = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'}
-    istek = requests.get(url, kimlik)
-    soup = BeautifulSoup(istek.text, "lxml")
+    istek = requests.get(url, headers=kimlik)
+    corba = BeautifulSoup(istek.text, "lxml")
 
     liste = []
 
-    for table in soup.findAll("ul", class_="gallery-page-video-list-items"):
+    for table in corba.findAll("ul", class_="gallery-page-video-list-items"):
         # print(table)
         # print(table.tr.text)
-        haberManset = table.findAll("div", class_="card-text-wrapper")
+        haberManset = table.findAll("div", class_="card card--md")
 
         for adet in range(len(haberManset)):
             liste.append({
-                "Haber" : haberManset[adet].p.text.strip().replace('SON DAKİKA HABERİ:',''),
+                "Haber" : haberManset[adet].p.text.replace('SON DAKİKA HABERİ:','').replace(' | Son depremler','').replace('SON DAKİKA: ', '').strip(),
                 "Link" : "https://www.ntv.com.tr" + haberManset[adet].a['href']
             })
 
