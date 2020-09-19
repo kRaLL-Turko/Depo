@@ -57,6 +57,18 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 | Çocuk Wellsoft Patik   | https://www.bim.com.tr/aktuel-urunler/cocuk-wellsoft-patik/aktuel.aspx   | https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_cocuk-patik.jpg   | 5,95₺        |
 | Keten Ayakkabı         | https://www.bim.com.tr/aktuel-urunler/keten-ayakkabi/aktuel.aspx         | https://www.bim.com.tr/Uploads/aktuel-urunler/624_kucuk_543X467_keten-erkek.jpg   | 9,95₺        |
 
+## [`akaryakit.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/akaryakit.py)
+
+| turu                                  | fiyati   |
+|---------------------------------------|----------|
+| Kurşunsuz 95 -- ₺/lt                  | 4,85 ₺   |
+| Kurşunsuz 95(Excellium95) -- ₺/lt     | 6,86 ₺   |
+| Gazyağı -- ₺/lt                       | 4,61 ₺   |
+| Motorin(Eurodiesel) -- ₺/lt           | 5,98 ₺   |
+| Motorin(Excellium Eurodiesel) -- ₺/lt | 6,02 ₺   |
+| Kalorifer Yakıtı -- ₺/Kg              | 4,04 ₺   |
+| Fuel Oil -- ₺/Kg                      | 3,77 ₺   |
+
 # `w_pandas`
 
 ## [`doviz.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_pandas/doviz.py)

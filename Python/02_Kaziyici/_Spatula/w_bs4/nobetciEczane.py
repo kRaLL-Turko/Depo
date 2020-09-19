@@ -72,7 +72,7 @@ def nobetciEczane(il=None, ilce=None, cikti='gorsel_veri'):
         return liste
     
     elif cikti == 'json_gorsel':
-        return json.dumps(liste, indent=2, sort_keys=True, ensure_ascii=False)
+        return json.dumps(liste, indent=2, sort_keys=False, ensure_ascii=False)
     
     elif cikti == 'gorsel_veri':
         return tabulate(liste, headers='keys', tablefmt='psql')

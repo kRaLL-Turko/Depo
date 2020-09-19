@@ -67,7 +67,7 @@ def aktuelBim(cikti='gorsel_veri'):
         return sozluk
     
     elif cikti == 'json_gorsel':
-        return json.dumps(sozluk, indent=2, sort_keys=True, ensure_ascii=False)
+        return json.dumps(sozluk, indent=2, sort_keys=False, ensure_ascii=False)
     
     elif cikti == 'gorsel_veri':
         return tabulate(sozluk['urunler'], headers='keys', tablefmt='psql')

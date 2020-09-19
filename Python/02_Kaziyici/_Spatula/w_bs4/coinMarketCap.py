@@ -72,7 +72,7 @@ def coinMarket(cikti='gorsel_veri', baslik=None):
         return liste
     
     elif cikti == 'json_gorsel':
-        return json.dumps(liste, indent=2, sort_keys=True, ensure_ascii=False)
+        return json.dumps(liste, indent=2, sort_keys=False, ensure_ascii=False)
     
     elif cikti == 'json' and baslik != None:
         for bul in range(len(liste)):
