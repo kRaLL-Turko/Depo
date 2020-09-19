@@ -2,7 +2,7 @@
 
 Her çeşit projede kullanılabilecek scrape örnekleri..
 
-# `w_bs4`
+# w_bs4
 
 ## [`nobetciEczane.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_bs4/nobetciEczane.py)
 
@@ -69,7 +69,7 @@ Her çeşit projede kullanılabilecek scrape örnekleri..
 | Kalorifer Yakıtı -- ₺/Kg              | 4,04 ₺   |
 | Fuel Oil -- ₺/Kg                      | 3,77 ₺   |
 
-# `w_pandas`
+# w_pandas
 
 ## [`doviz.py`](https://github.com/KekikAkademi/Depo/blob/master/Python/02_Kaziyici/_Spatula/w_pandas/doviz.py)
 
