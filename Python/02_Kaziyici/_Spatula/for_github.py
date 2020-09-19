@@ -7,6 +7,7 @@ from w_bs4.nobetciEczane import nobetciEczane
 from w_bs4.haberler import sonDakika
 from w_bs4.havaDurumu import hava_Durum
 from w_pandas.doviz import dovizVerileri
+from w_pandas.deprem import depremVerileri
 
 def md_github(veri):
     """
@@ -31,3 +32,6 @@ with open("havaDurumu.md", "w+") as hava:
 
 with open("haberler.md", "w+") as haber:
     haber.write(md_github(sonDakika("json_veri")))
+
+with open("deprem.md", "w+") as deprem:
+    deprem.write(md_github(depremVerileri("json_veri")))

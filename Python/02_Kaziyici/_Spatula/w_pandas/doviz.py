@@ -4,11 +4,10 @@ import warnings
 from pandas.core.common import SettingWithCopyWarning
 warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
 
-import requests
+import requests, json
 from bs4 import BeautifulSoup
 import pandas as pd
 from tabulate import tabulate
-import json
 
 kullanim =  {
     'kullanim' : [

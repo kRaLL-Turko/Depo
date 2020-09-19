@@ -13,9 +13,9 @@ kullanim =  {
     ]
 }
 
-def sonDakika(cikti='gorsel_veri', birim=None):
+def sonDakika(cikti='gorsel_veri'):
     """
-    ntv.com.tr Son DAkina Verileri
+    ntv.com.tr Son Dakika Verileri
 
         Kullanım;
 
