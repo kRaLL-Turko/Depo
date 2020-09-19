@@ -17,25 +17,25 @@ def md_github(veri):
 
     return tabulate(veri, headers='keys', tablefmt='github')
 
-with open("coinMarket.md", "w+") as coin:
-    coin.write(md_github(coinMarket('json_veri')))
+# with open("coinMarket.md", "w+") as coin:
+#     coin.write(md_github(coinMarket('json_veri')))
 
-try:
-    with open("nobetciEczane.md", "w+") as nobetci:    
-        nobetci.write(md_github(nobetciEczane('çanakkale', 'merkez', 'json_veri')))
-except:pass
+# try:
+#     with open("nobetciEczane.md", "w+") as nobetci:    
+#         nobetci.write(md_github(nobetciEczane('çanakkale', 'merkez', 'json_veri')))
+# except:pass
 
-with open("dovizVerileri.md", "w+") as doviz:
-    doviz.write(md_github(dovizVerileri('json_veri')))
+# with open("dovizVerileri.md", "w+") as doviz:
+#     doviz.write(md_github(dovizVerileri('json_veri')))
 
-with open("havaDurumu.md", "w+") as hava:
-    hava.write(md_github(hava_Durum("Çanakkale", "Merkez", "json_veri")))
+# with open("havaDurumu.md", "w+") as hava:
+#     hava.write(md_github(hava_Durum("Çanakkale", "Merkez", "json_veri")))
 
-with open("haberler.md", "w+") as haber:
-    haber.write(md_github(sonDakika("json_veri")))
+# with open("haberler.md", "w+") as haber:
+#     haber.write(md_github(sonDakika("json_veri")))
 
-with open("deprem.md", "w+") as deprem:
-    deprem.write(md_github(depremVerileri("json_veri")))
+# with open("deprem.md", "w+") as deprem:
+#     deprem.write(md_github(depremVerileri("json_veri")))
 
 with open("bim.md", "w+") as bim:
-    bim.write(md_github(aktuelBim("json_veri")))
+    bim.write(md_github(aktuelBim("json_veri")['urunler']))
